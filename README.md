@@ -1,2 +1,2 @@
-# leetcode_practice
-a place for leetcode notebooks and snippets
+# datacamp_practice
+a place for datacamp notebooks and snippets
